@@ -1,2 +1,3 @@
-# Spk-Topsis-BusPariwisata
-Sistem Pendukung Keputusan Bus Pariwisata Menggunakan Metode Topsis
+#SPK Penerimaan Beasiswa PPA
+Sistem Pendukung Keputusan Penerimaan Beasiswa dengan Menggunakan Metode Topsis
+
